@@ -8,3 +8,4 @@ class LeapYear:
             else:
                 lst.append(str(i))
     print 'Leap years between 1900 and 2020 are ', ' '.join(lst)
+    print 'sucess'
